@@ -15,3 +15,6 @@ En esta sección deberás aplicar las técnicas de Machine Learning aprendidas p
 
 Parte C - Investigación. 
 Las preguntas y cosas para probar nunca se agotan. El objetivo de esta sección es que sugieras cómo continuarías el proyecto, con el fin de mejorar el modelo o responder una pregunta que consideres interesante. En todos los notebooks dejamos algunas sugerencias, pero puedes proponer otras.
+
+# Dataset Clean
+ Lo podrás encontrar [aquí](https://drive.google.com/drive/folders/1jwfhyozoOFDtoIm5tPDli-YWjrshcliV?usp=sharing)
